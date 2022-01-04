@@ -63,3 +63,23 @@
 60. Explain the importance of operators and numbers in Javascript.
 61. What is hoisting in Javascript.
 62. What are pure functions in Javascript.
+
+
+**JAVASCRIPT BROWSER**
+
+1. What is DOM.
+2. What is the difference between DOM and BOM.
+3. Explain DOM tree.
+4. What are the different searching DOM node elements.
+5. What is the difference between querySelector and querySelectorAll.
+6. Explain DOM node classes.
+7. What are the DOM different attributes and properties.
+8. How to modify the document.
+9. What is bubbling principle.
+10. What is delegation.
+11. Explain forms and its properties.
+12. What is the use of Fetch and Fetch API.
+13. What is CORS and how to handle it.
+14. Illustrate web socket with simple example.
+15. Explain the difference between cookies, session storage and local storage.
+16. What is IndexedDB
