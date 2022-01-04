@@ -1,5 +1,5 @@
 # Advance-Javascript
-** Interview Questions**
+**Interview Questions**
 
 1. Explain how Javascript works in browser.
 2. What are the different features of Javascript.
