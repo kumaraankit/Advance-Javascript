@@ -49,5 +49,15 @@
 46. What is the difference between prototype and __Proto__.
 47. Explain different types of prototypes.
 48. What are class and class inheritance in Javascript.
-49. Wxplain different static properties.
-50. 
+49. Explain different static properties.
+50. What are Mixins.
+51. Explain callbacks.
+52. Explain promises in JS.
+53. What is promise chaining.
+54. What do we need async/await.
+55. What are microtasks and its queue.
+56. What is the importance of module, export and import.
+57. What are proxy and eval in Javascript.
+58. What is currying.
+59. What is Refernce type in Javascript.
+60. Explain the importance of operators and numbers in Javascript.
