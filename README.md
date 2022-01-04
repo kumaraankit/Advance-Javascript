@@ -61,3 +61,5 @@
 58. What is currying.
 59. What is Refernce type in Javascript.
 60. Explain the importance of operators and numbers in Javascript.
+61. What is hoisting in Javascript.
+62. What are pure functions in Javascript.
