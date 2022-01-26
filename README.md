@@ -63,6 +63,7 @@
 60. Explain the importance of operators and numbers in Javascript.
 61. What is hoisting in Javascript.
 62. What are pure functions in Javascript.
+63. What is ASI(Automatic Semicolon insertion) and also mention the area where it does not work.
 
 
 **JAVASCRIPT BROWSER**
