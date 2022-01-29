@@ -31,7 +31,7 @@
 28. Explain the difference between shift and unshift.
 29. Explain the difference between splice and slice.
 30. What are iterables.
-31. What are generators.
+31. What are generators and what it its importance.
 32. Explain Map and its Methods.
 33. What are weak map and weak set.
 34. What is the difference between destructuring and spread operator.
@@ -64,6 +64,7 @@
 61. What is hoisting in Javascript.
 62. What are pure functions in Javascript.
 63. What is ASI(Automatic Semicolon insertion) and also mention the area where it does not work.
+64. Explain type coercion.
 
 
 **JAVASCRIPT BROWSER**
