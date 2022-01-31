@@ -65,6 +65,7 @@
 62. What are pure functions in Javascript.
 63. What is ASI(Automatic Semicolon insertion) and also mention the area where it does not work.
 64. Explain type coercion.
+65. What are the limitations of arrow functions in javascript and why.
 
 
 **JAVASCRIPT BROWSER**
