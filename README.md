@@ -66,6 +66,8 @@
 63. What is ASI(Automatic Semicolon insertion) and also mention the area where it does not work.
 64. Explain type coercion.
 65. What are the limitations of arrow functions in javascript and why.
+66. What are the different pillars of object oriented javascript and explain them with an example.
+67. What is the issue and how can we handle the object referencing in objects.
 
 
 **JAVASCRIPT BROWSER**
