@@ -88,3 +88,42 @@
 14. Illustrate web socket with simple example.
 15. Explain the difference between cookies, session storage and local storage.
 16. What is IndexedDB
+
+**
+NODE JS**
+1. What is node js.
+2. What are globals.
+3. What is modules.
+4. What are the utils in node js.
+5. Explain the working and architecture of node js.
+6. Explain in-built modeules and their purpose(os,path etc).
+7. What are files system in Node js.
+8. Explain Async and sync file system in node js.
+9. Explain http in node js.
+10. What is event emitter.
+11. What are streams and pipes in node js.
+12. Explain call bac hell.
+13. Explain buffer class in node js.
+14. What is event looping concept.
+15. What are the benefits of node js.
+16. What is REPL.
+17. What is express js and use of express js.
+18. What is middlewares and why do we need them.
+19. Exlain routes in node js.
+20. What is JWT and how do we setup them using node js.
+21. Build CRUD app in node js using express js.
+22. What is static files in express js.
+23. What is REST API.
+24. Explain the different http codes.
+25. What is the difference between put and patch.
+26. Explain socket.
+27. Why socket is fast.
+28. Explain Node js Timer, DNS.
+29. Explain net and crypto node js.
+30. Explain node js process.
+31. What is the child process in node js.
+32. Explain V8 engine in node js and its working.
+33. Explain zlib and assertions in node js.
+34. What is punny code.
+35. What is the importance of TTY.
+36. Explain web modules.
