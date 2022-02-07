@@ -68,6 +68,7 @@
 65. What are the limitations of arrow functions in javascript and why.
 66. What are the different pillars of object oriented javascript and explain them with an example.
 67. What is the issue and how can we handle the object referencing in objects.
+68. Explain the SEO and why it is required.
 
 
 **JAVASCRIPT BROWSER**
@@ -102,7 +103,7 @@ NODE JS**
 9. Explain http in node js.
 10. What is event emitter.
 11. What are streams and pipes in node js.
-12. Explain call bac hell.
+12. Explain call back hell.
 13. Explain buffer class in node js.
 14. What is event looping concept.
 15. What are the benefits of node js.
