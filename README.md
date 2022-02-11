@@ -75,6 +75,7 @@
 72. Is it possible to make javascript multithreaded.
 73. What is the difference between different loops.
 74. What is the use of map, reduce and filter.
+75. Explain shallow copy and deep copy in javascript objects.
 
 
 **JAVASCRIPT BROWSER**
