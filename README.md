@@ -69,6 +69,9 @@
 66. What are the different pillars of object oriented javascript and explain them with an example.
 67. What is the issue and how can we handle the object referencing in objects.
 68. Explain the SEO and why it is required.
+69. Write a crud operation using for array.
+70. Write a crud operation for objects in javascript.
+71. Explain sorting, searching and comparing in javascript.
 
 
 **JAVASCRIPT BROWSER**
