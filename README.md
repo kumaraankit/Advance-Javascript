@@ -72,6 +72,7 @@
 69. Write a crud operation using for array.
 70. Write a crud operation for objects in javascript.
 71. Explain sorting, searching and comparing in javascript.
+72. Is it possible to make javascript multithreaded.
 
 
 **JAVASCRIPT BROWSER**
