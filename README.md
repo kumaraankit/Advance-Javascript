@@ -73,6 +73,8 @@
 70. Write a crud operation for objects in javascript.
 71. Explain sorting, searching and comparing in javascript.
 72. Is it possible to make javascript multithreaded.
+73. What is the difference between different loops.
+74. What is the use of map, reduce and filter.
 
 
 **JAVASCRIPT BROWSER**
@@ -94,8 +96,8 @@
 15. Explain the difference between cookies, session storage and local storage.
 16. What is IndexedDB
 
-**
-NODE JS**
+****
+**NODE JS******
 1. What is node js.
 2. What are globals.
 3. What is modules.
