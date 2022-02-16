@@ -76,6 +76,8 @@
 73. What is the difference between different loops.
 74. What is the use of map, reduce and filter.
 75. Explain shallow copy and deep copy in javascript objects.
+76. What are http headers.
+77. What are different security threats and cross origin in Javascript.
 
 
 **JAVASCRIPT BROWSER**
