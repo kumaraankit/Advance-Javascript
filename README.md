@@ -78,6 +78,8 @@
 75. Explain shallow copy and deep copy in javascript objects.
 76. What are http headers.
 77. What are different security threats and cross origin in Javascript.
+78. Explain polyfills with respect to forEach,map,reduce and filter.
+79. What is throttling and debounce.
 
 
 **JAVASCRIPT BROWSER**
