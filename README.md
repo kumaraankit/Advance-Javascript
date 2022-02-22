@@ -80,6 +80,7 @@
 77. What are different security threats and cross origin in Javascript.
 78. Explain polyfills with respect to forEach,map,reduce and filter.
 79. What is throttling and debounce.
+80. What is the difference between async and defer.
 
 
 **JAVASCRIPT BROWSER**
